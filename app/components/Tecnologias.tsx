@@ -29,6 +29,7 @@ const categorias: Categoria[] = [
   {
     titulo: "Infraestructura y herramientas",
     items: [
+      "Vercel",
       "Git",
       
     ],
