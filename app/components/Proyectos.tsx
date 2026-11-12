@@ -18,7 +18,7 @@ const proyectos: Proyecto[] = [
       desarrollo de interfaces interactivas.`,
     imagen: "/proyectos/vivero.png",
     github: "https://github.com/mjmoretti/vivero-agronomia",
-    demo: "", // se completa cuando lo deployes
+    demo: "https://vivero-livid.vercel.app", // se completa cuando lo deployes
   },
   {
     titulo: "Power Gym",
