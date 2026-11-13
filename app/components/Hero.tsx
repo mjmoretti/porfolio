@@ -1,5 +1,7 @@
 import Image from "next/image";
-gi
+import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
+
 export default function Hero() {
   return (
     <section className="flex flex-col justify-center h-full md:px-8 py-12 gap-6">
