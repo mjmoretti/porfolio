@@ -12,7 +12,6 @@ const categorias: Categoria[] = [
       "React",
       "Next.js",
       "Tailwind CSS",
-      "Radix",
       "Figma",
     ],
   },
@@ -21,7 +20,6 @@ const categorias: Categoria[] = [
     items: [
       "Node.js",
       "PostgreSQL",
-      "REST",
       "MongoDB",
       "Express",
     ],
@@ -31,6 +29,9 @@ const categorias: Categoria[] = [
     items: [
       "Vercel",
       "Git",
+      "GitHub",
+      "Render",
+      "Cloudinary",
       
     ],
   },
