@@ -9,7 +9,6 @@ const categorias: Categoria[] = [
     items: [
       "React",
       "TypeScript",
-      "React",
       "Next.js",
       "Tailwind CSS",
       "Figma",
