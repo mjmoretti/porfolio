@@ -20,7 +20,8 @@ const belleza = Belleza({
 
 export const metadata: Metadata = {
   title: "María José Moretti",
-  description: "Portfolio de desarrolladora Full Stack",
+  description:
+    "Portfolio profesional de María José Moretti, desarrolladora Full Stack con foco en frontend. Proyectos, experiencia, formación y tecnologías.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
